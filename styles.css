@@ -585,7 +585,7 @@ footer .arriba{
         border-radius: 0.3em;
     }
     nav.responsive{
-        display: block;
+        display: none;
         position: absolute;
         right: 0;
         top: 75px;
